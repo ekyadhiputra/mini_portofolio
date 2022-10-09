@@ -1,2 +1,2 @@
 # mini_portopolio
-Mini Portopolio Data Scientiest Dibimbing,
+Mini Portopolio Pembuatan Machine Leaning,
